@@ -58,6 +58,11 @@ p {
 a {
   color: black;
   text-decoration: none;
+  display: block;
+}
+
+a:visited {
+  color: purple
 }
 
 a:hover {
